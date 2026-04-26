@@ -1,0 +1,1 @@
+# Pathi Django project
